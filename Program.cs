@@ -6,6 +6,7 @@ namespace Game
     {
         static void Main(string[] args)
         {
+            //Game Title
             Console.WriteLine("Github");
             Console.ReadLine();
         }
